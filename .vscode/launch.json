@@ -15,10 +15,10 @@
                     "--lib",
                     "--package=list"
                 ],
-                "filter": {
-                    "name": "list",
-                    "kind": "lib"
-                }
+//                "filter": {
+//                    "name": "list",
+//                    "kind": "lib"
+//                }
             },
             "args": [],
             "cwd": "${workspaceFolder}"
